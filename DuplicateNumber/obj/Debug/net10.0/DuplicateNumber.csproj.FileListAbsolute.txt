@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\bin\Debug\net10.0\DuplicateNumber.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\bin\Debug\net10.0\DuplicateNumber.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\bin\Debug\net10.0\DuplicateNumber.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\bin\Debug\net10.0\DuplicateNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\bin\Debug\net10.0\DuplicateNumber.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\refint\DuplicateNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\DuplicateNumber.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateNumber\obj\Debug\net10.0\ref\DuplicateNumber.dll
