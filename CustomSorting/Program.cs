@@ -29,7 +29,7 @@ class Program
     };
     
 
-    var num=students.OrderBy(n=>n.Marks).ThenBy(n=>n.Age).ToList();
+    var num=students.OrderByDescending(n=>n.Marks).ThenBy(n=>n.Age).ToList();
 
 
     foreach (Student item in num)
