@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\bin\Debug\net10.0\SortedArray.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\bin\Debug\net10.0\SortedArray.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\bin\Debug\net10.0\SortedArray.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\bin\Debug\net10.0\SortedArray.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\bin\Debug\net10.0\SortedArray.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\refint\SortedArray.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\SortedArray.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\SortedArray\obj\Debug\net10.0\ref\SortedArray.dll

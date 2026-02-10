@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\bin\Debug\net10.0\CircleArea.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\bin\Debug\net10.0\CircleArea.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\bin\Debug\net10.0\CircleArea.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\bin\Debug\net10.0\CircleArea.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\bin\Debug\net10.0\CircleArea.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\refint\CircleArea.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\CircleArea.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CircleArea\obj\Debug\net10.0\ref\CircleArea.dll
