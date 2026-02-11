@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\bin\Debug\net10.0\Word.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\bin\Debug\net10.0\Word.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\bin\Debug\net10.0\Word.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\bin\Debug\net10.0\Word.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\bin\Debug\net10.0\Word.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\refint\Word.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\Word.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Word\obj\Debug\net10.0\ref\Word.dll
