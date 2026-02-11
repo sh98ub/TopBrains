@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\bin\Debug\net10.0\ArithmeticExpression.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\refint\ArithmeticExpression.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ArithmeticExpression.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\ArithmeticExpression\obj\Debug\net10.0\ref\ArithmeticExpression.dll
