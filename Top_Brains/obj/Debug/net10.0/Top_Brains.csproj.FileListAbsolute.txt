@@ -1,0 +1,14 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\bin\Debug\net10.0\Top_Brains.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\bin\Debug\net10.0\Top_Brains.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\bin\Debug\net10.0\Top_Brains.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\bin\Debug\net10.0\Top_Brains.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\bin\Debug\net10.0\Top_Brains.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\refint\Top_Brains.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\Top_Brains.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\Top_Brains\obj\Debug\net10.0\ref\Top_Brains.dll

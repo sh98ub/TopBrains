@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\bin\Debug\net10.0\CustomSorting.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\refint\CustomSorting.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\CustomSorting.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\CustomSorting\obj\Debug\net10.0\ref\CustomSorting.dll

@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\bin\Debug\net10.0\LuckyNumber.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\bin\Debug\net10.0\LuckyNumber.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\bin\Debug\net10.0\LuckyNumber.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\bin\Debug\net10.0\LuckyNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\bin\Debug\net10.0\LuckyNumber.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\refint\LuckyNumber.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\LuckyNumber.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\LuckyNumber\obj\Debug\net10.0\ref\LuckyNumber.dll

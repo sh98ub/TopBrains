@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 
 namespace ParameterizedQuery
@@ -19,7 +20,7 @@ namespace ParameterizedQuery
 
             obj.AddNewStudent(id, name, marks);
 
-            Console.ReadLine(); // Optional pause
+            Console.ReadLine();
         }
     }
 }
