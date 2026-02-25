@@ -1,0 +1,15 @@
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\bin\Debug\net10.0\DuplicateProduct.exe
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\bin\Debug\net10.0\DuplicateProduct.deps.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\bin\Debug\net10.0\DuplicateProduct.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\bin\Debug\net10.0\DuplicateProduct.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\bin\Debug\net10.0\DuplicateProduct.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.sourcelink.json
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\refint\DuplicateProduct.dll
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.pdb
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\DuplicateProduct.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\TOPBRAINS\DuplicateProduct\obj\Debug\net10.0\ref\DuplicateProduct.dll
