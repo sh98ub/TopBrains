@@ -1,0 +1,7 @@
+C:\Users\Shubham\source\repos\ReadProduct\bin\Debug\ReadProduct.exe.config
+C:\Users\Shubham\source\repos\ReadProduct\bin\Debug\ReadProduct.exe
+C:\Users\Shubham\source\repos\ReadProduct\bin\Debug\ReadProduct.pdb
+C:\Users\Shubham\source\repos\ReadProduct\obj\Debug\ReadProduct.csproj.AssemblyReference.cache
+C:\Users\Shubham\source\repos\ReadProduct\obj\Debug\ReadProduct.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\ReadProduct\obj\Debug\ReadProduct.exe
+C:\Users\Shubham\source\repos\ReadProduct\obj\Debug\ReadProduct.pdb
