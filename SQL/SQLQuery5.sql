@@ -1,0 +1,19 @@
+CREATE TABLE USERS
+(
+USER_ID INT,
+NAME VARCHAR(50),
+EMAIL VARCHAR(100)
+);
+
+INSERT INTO USERS VALUES (1,'Amit','amit@gmail.com');
+INSERT INTO USERS VALUES (2,'Rahul','rahul@gmail.com');
+INSERT INTO USERS VALUES (3,'Priya','priya@gmail.com');
+INSERT INTO USERS VALUES (4,'Aman','amit@gmail.com');
+INSERT INTO USERS VALUES (5,'Rohit','rohit@gmail.com');
+INSERT INTO USERS VALUES (6,'Sneha','priya@gmail.com');
+INSERT INTO USERS VALUES (7,'Karan','karan@gmail.com');
+
+SELECT EMAIL, COUNT(*) AS DUPLICATE_COUNT
+FROM USERS
+GROUP BY EMAIL
+HAVING COUNT(*) > 1;
