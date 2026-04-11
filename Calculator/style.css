@@ -1,0 +1,72 @@
+body {
+    font-family: Arial;
+    background-color: #f0f2f5;
+    text-align: center;
+}
+
+.container {
+    margin: 100px auto;
+    width: 350px;
+    padding: 25px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+.buttons button {
+    margin: 8px;
+    padding: 12px;
+    width: 130px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+/* 🎯 Button Colors (IMPORTANT) */
+.add-btn {
+    background-color: #28a745; /* Green */
+}
+
+.sub-btn {
+    background-color: #007bff; /* Blue */
+}
+
+.mul-btn {
+    background-color: #fd7e14; /* Orange */
+}
+
+.div-btn {
+    background-color: #dc3545; /* Red */
+}
+
+/* Hover Effects */
+button:hover {
+    opacity: 0.9;
+}
+
+/* Result Box */
+#result {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #e9ecef;
+    border-radius: 6px;
+    font-weight: bold;
+}
